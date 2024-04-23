@@ -3,3 +3,16 @@
 @import "tailwindcss/utilities";
 
 /* This file is for your main application CSS */
+.messenger {
+    font-weight: bold;
+    font-size: 16px;
+    color: red;
+    background-color: yellow;
+}
+.input_shit {
+    margin-top: 1rem;
+    font-size: 24px;
+    border: 1px black solid;
+    border-radius: 8px;
+    padding: 0.5rem;
+}
